@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "2843044020c3a162",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aacba922937a8da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7686bfa21d84438",
+    "type": "split",
+    "children": [
+      {
+        "id": "29785050cf11fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e644d7b3c1df7b71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e3a035523f0d7f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ff88cf14fbd0395",
+    "type": "split",
+    "children": [
+      {
+        "id": "488d08799072d050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e6b4fda52897a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6aacba922937a8da",
+  "lastOpenFiles": [
+    "README.md.md",
+    "lessons/lesson-0-preparation-for-running-java-code/README.md.md",
+    "lessons/lesson-2-introduction-to-programming/README.md.md",
+    "lessons/lesson-1-what-is-java/README.md.md"
+  ]
+}
